@@ -1,6 +1,6 @@
 
 
-About Me
+ 
 Hello! I'm wiem arafaoui, a passionate AI and Data Science enthusiast. My academic journey and professional experiences have fueled my curiosity and passion for leveraging data to drive impactful decisions.
 
 Interests
